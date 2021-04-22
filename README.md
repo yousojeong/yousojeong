@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-- 🚀 I'm Korean
+- 🚀 Living in Korea
 
 <!---
 yousojeong/yousojeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
