@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yousojeong
 - 👀 I’m interested in ... Java Android
 - 🌱 I’m currently learning ... Android
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - 🚀 Living in Korea
 
