@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @yousojeong
-- 👀 I’m interested in ... Java Android
-- 🌱 I’m currently learning ... Android
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web, android app development
+- 🌱 I’m currently learning ... Java
 - 📫 How to reach me ... 
 - 🚀 Living in Korea
+<!--- 💞️ I’m looking to collaborate on ... -->
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousojeong&hide=stars,issues&show_icons=true&count_private=true)
