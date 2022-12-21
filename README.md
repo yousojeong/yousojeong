@@ -2,8 +2,8 @@
 
 > 👋 Hi there! I'm @yousojeong
 
-<span><a href="https://blog.naver.com/hielosan" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a></span>
-<span><a href="https://yousojeong.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a></span>
+<!-- <span><a href="https://blog.naver.com/hielosan" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a></span>
+<span><a href="https://yousojeong.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white"/></a></span> -->
 <span><a href="mailto:hielosan@naver.com"><img src="https://img.shields.io/badge/Naver mail-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a></span>
 <span><a href="mailto:hielosan6@gmail.com"><img src="https://img.shields.io/badge/hielosan6@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></span>
 <!-- <span><img src="https://img.shields.io/badge/sojeong you-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></span> -->
@@ -34,7 +34,6 @@
 <!-- <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></span> -->
 <!-- <span><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></span> -->
 <!-- <span><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></span> -->
-<!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> -->
 
 ###### 📚 Currently studying/working
 <span><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></span>
@@ -45,6 +44,7 @@
 <span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Open Source-3DA639?style=flat-square&logo=Open Source Initiative&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></span>
 
 
 
@@ -54,3 +54,25 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyousojeong%2Fyousojeong&count_bg=%2304052F&title_bg=%23686868&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 </div>
+
+
+
+
+<!-- 전체 통계 &hide=stars,commits,prs,issues,contribs  -->
+<!-- 
+<span>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousojeong&hide=issues&show_icons=true&count_private=true)
+
+</span>
+-->
+
+<!-- 언어 통계 -->
+
+<!-- 
+<span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousojeong&layout=compact&langs_count=5&hide=jupyter%20notebook,Ruby,SCSS?exclude_repo=repo1,repo2)](https://github.com/anuraghazra/github-readme-stats)
+
+</span>
+-->
