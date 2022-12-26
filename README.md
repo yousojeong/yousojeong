@@ -10,7 +10,7 @@
 <!-- <img src="https://img.shields.io/badge/sojeong you-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> -->
 
-- Experienced participating in web application and Android application development projects
+<!-- - Experienced participating in web application and Android application development projects
   - (Work experience with 3 webs, 1 Android, 1 computer vision)
 - Junior developers who still have a lot to learn and want to grow
   - I use Java, I've been studying Python as a computer vision project recently
@@ -19,7 +19,18 @@
   - Recently, Studying and developing the computer vision image recognition field
   - I run a blog. It leaves a record of errors or developments
   - (Preparing to relocate to Git Blog, Currently using Naver Blog)
-- Majoring in software engineering.
+- Majored in software engineering. -->
+
+- Experienced participating in web application and Android application development projects
+- Junior developers who still have a lot to learn and want to grow
+  - I use Java, and I've been studying Python as a computer vision project recently
+  - For better Android development, Started studying Kotlin
+- Like to develop new things and challenge them && Like to recording 
+  - Currently participating in the computer vision image recognition field project
+  - I run a blog. It leaves a record of errors or developments
+  - (Preparing to relocate to Git Blog, Currently using Naver Blog)
+- Majored in software engineering.
+<!--   - (Work experience with 3 webs, 1 Android, 1 computer vision) -->
 
 ###### 💻 Android/Web
 
